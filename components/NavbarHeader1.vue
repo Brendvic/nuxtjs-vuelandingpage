@@ -148,7 +148,7 @@ export default {
   margin-right: 10px;
   border-radius: 5px;
 }
-.btn-login {
+.btn-logout {
   margin-left: 5px;
   padding: 10px;
   padding-inline: 20px;
@@ -162,7 +162,7 @@ export default {
 }
 
 .btn-signup:hover,
-.btn-login:hover {
+.btn-logout:hover {
   background-color: rgb(207, 207, 207);
 }
 </style>
